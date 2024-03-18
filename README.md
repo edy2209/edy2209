@@ -1,3 +1,6 @@
+![made](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![madep](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&size=30&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&width=700&height=70&lines=WELCOME+ALL+%2C+MY+NAME+IS+EDY" alt="Typing SVG" />
 </p>
@@ -87,3 +90,7 @@
 ![riotgame](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 ![fifa](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
 
+**Crypto Fav**
+
+![btc](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![btc](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
