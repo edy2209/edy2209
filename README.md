@@ -9,11 +9,23 @@
 
 ## 👋 About Me
 
-Hello! I'm **Edy Syafrianto**, a passionate **software developer** and **web/app creator** based in Padang, West Sumatra, Indonesia.
+Hello! I'm **Edy Syafrianto**, seorang **Software Developer** dan **Web/App Creator** yang bersemangat dengan keahlian dalam menciptakan solusi digital yang **robust dan intuitif**.
 
-I thrive on building **sleek and functional digital experiences**, transforming ideas into reality through clean and efficient code. Whether it's crafting elegant websites or developing innovative mobile applications, I'm dedicated to delivering solutions that truly resonate with users.
+Dengan pengalaman di bidang pengembangan web dan aplikasi, saya berfokus pada pembangunan solusi yang **efisien dan fungsional** serta dapat memberikan pengalaman terbaik bagi pengguna. Saya sangat senang mengubah ide-ide inovatif menjadi kenyataan melalui baris-baris kode.
 
-Feel free to explore my repositories to see some of my latest projects and contributions to the world of software development!
+Jelajahi repositori saya untuk melihat proyek-proyek terbaru saya dan kontribusi saya dalam dunia pengembangan perangkat lunak!
+
+---
+
+## 🚀 GitHub Statistics
+
+Mari lihat sekilas aktivitas dan kontribusi saya di GitHub!
+
+<p align="center">
+  [![Edy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edy2209&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edy2209&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=edy2209&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 ---
 
@@ -33,16 +45,19 @@ Feel free to explore my repositories to see some of my latest projects and contr
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge"/>
 </p>
 
 ### 🚀 Frameworks, Platforms & Libraries
 
 <p align="left">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
