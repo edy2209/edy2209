@@ -9,30 +9,11 @@
 
 ## 👋 About Me
 
-Hello! I'm **Edy Syafrianto**, seorang **Software Developer** dan **Web/App Creator** yang bersemangat dengan keahlian dalam menciptakan solusi digital yang **robust dan intuitif**.
+Hello! I'm **Edy Syafrianto**, a passionate **Software Developer** and **Web/App Creator** with expertise in crafting **robust and intuitive digital solutions**.
 
-Dengan pengalaman di bidang pengembangan web dan aplikasi, saya berfokus pada pembangunan solusi yang **efisien dan fungsional** serta dapat memberikan pengalaman terbaik bagi pengguna. Saya sangat senang mengubah ide-ide inovatif menjadi kenyataan melalui baris-baris kode.
+With a strong background in both web and application development, I focus on building **efficient and functional solutions** that provide the best user experience. I thrive on transforming innovative ideas into reality through lines of code.
 
-Jelajahi repositori saya untuk melihat proyek-proyek terbaru saya dan kontribusi saya dalam dunia pengembangan perangkat lunak!
-
----
-
-## 🚀 GitHub Statistics
-
-Mari lihat sekilas aktivitas dan kontribusi saya di GitHub!
-
-<p align="center">
-  [![Edy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edy2209&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edy2209&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=edy2209&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
----
-
-## 🗣️ Human Languages
-
-* **Bahasa Indonesia**: Native Speaker
-* **English**: Professional Working Proficiency
+Feel free to explore my repositories to see some of my latest projects and contributions to the world of software development!
 
 ---
 
@@ -83,7 +64,7 @@ Mari lihat sekilas aktivitas dan kontribusi saya di GitHub!
   <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=for-the-badge"/>
 </p>
 
-###  operating_system Operating Systems
+### 💻 Operating Systems
 
 <p align="left">
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -97,6 +78,13 @@ Mari lihat sekilas aktivitas dan kontribusi saya di GitHub!
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+## 🗣️ Human Languages
+
+* **Indonesian**: Native Speaker
+* **English**: Professional Working Proficiency
 
 ---
 
